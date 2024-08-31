@@ -5,7 +5,7 @@ class TicTacToe:
         self.master = master
         master.title("Tic Tac Toe")
 
-        # Initialize variables
+        # Initialize variables 
         self.current_player = 'X'
         self.winner = False
         self.moves = 0
